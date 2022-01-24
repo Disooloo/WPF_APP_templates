@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f14a28c7-d27c-4025-84b3-bb33f7a133c7": {
+      "ProjectGuid": "f14a28c7-d27c-4025-84b3-bb33f7a133c7",
+      "DisplayName": "AnimatedColorfulMenu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
