@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/Button.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/ComboBox.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/Expander.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/Scrollview.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/DataGrid.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/GroupBox.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/CheckBox.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/ProgressBar.xaml" />
+        <ResourceDictionary Source="/DMSkin.AduDesign;component/Styles/RadioButtonMenu.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
